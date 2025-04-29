@@ -10,4 +10,5 @@ This repository contains the R scripts used for analyzing 16S rRNA gene sequenci
 Download raw fastq files from NCBI Sequence Read Archive, BioProject ID PRJNA1254212.
 
 ### Publication
+Al et al. 2025. Evaluating Oral Acetate Supplementation for Gut Microbiota Alteration and Metabolic Improvement in Patients with Affective Disorders on Psychotropics
 Citation pending.
